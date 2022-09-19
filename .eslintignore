@@ -1,0 +1,5 @@
+node_modules/
+parser/
+*.css
+*.svg
+craco.config.ts

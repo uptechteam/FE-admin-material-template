@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@atoms": ["src/components/atoms"],
+      "@atoms/*": ["src/components/atoms/*"],
+      "@molecules": ["src/components/molecules"],
+      "@molecules/*": ["src/components/molecules/*"],
+      "@organisms": ["src/components/organisms"],
+      "@organisms/*": ["src/components/organisms/*"],
+      "@templates": ["src/components/templates"],
+      "@templates/*": ["src/components/templates/*"],
+      "@pages": ["src/pages"],
+      "@pages/*": ["src/pages/*"],
+      "@store": ["src/store"],
+      "@store/*": ["src/store/*"],
+      "@utils": ["src/utils"],
+      "@utils/*": ["src/utils/*"],
+      "@styles": ["src/styles"],
+      "@styles/*": ["src/styles/*"],
+      "@core/*": ["src/core/*"],
+      "@images/*": ["src/assets/images/*"],
+      "@common": ["src/common"],
+      "@common/*": ["src/common/*"]
+    },
+    "jsx": "preserve",
+    "isolatedModules": false
+  }
+}
