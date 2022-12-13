@@ -2,6 +2,10 @@
   "name": "react-material-admin-template",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "^16.18.1",
+    "yarn": ">= 1.22.19"
+  },
   "dependencies": {
     "@craco/craco": "^6.4.5",
     "@emotion/react": "^11.10.4",
